@@ -1,0 +1,41 @@
+{
+"GuideData": {
+"AdsController": {
+"BannerAd": "admob",
+"InterstitialAd": "admob",
+"NativeAd": "admob",
+"BannerAdmob": "ca-app-pu99942544/6300978111",
+"InterstitialAdmob": "ca3940256099942544/1033173712",
+"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+"BannerFacebook": "",
+"InterstitialFacebook": "",
+"NativeFacebook": "",
+"maxBanner": "f7a552c00ac0",
+"maxInterstitial": "5fa0ea673f05",
+"maxNative": "bf83265394ba8",
+"ironsource_appKey": "",
+"unity_game_id": "",
+"unity_test": true,
+"unity_banner": "banner",
+"unity_interstitial": "video",
+"ImageBanner": false,
+"ImageBannerImg": "",
+"ImageBannerURL": ""
+},
+"items": [
+{
+"title": "What's Pobreflix",
+"image": "https://studioproduction.site/slimane/porbreflix/ccover.png",
+"color": "#000000",
+"text_size": "25",
+"isLink": false,
+"link_title": "",
+"setLink": "",
+"image_link": "",
+"text": "Pobreflix - Movies, Series, and Anime Apk is a website and app platform where you can watch movies and series online for free! Our platform is an automated index. Pobreflix Apk does not store any movies and/or series on our website/platform, so this is entirely within the law.\nPobreflix - Movies, Series, and Anime Apk automatically index the content found on the web using robots and Artificial Intelligence (IA) and IMDb APIs. The use of PobreFlix Apk is solely the responsibility of the user. Films and/or series are distributed via platforms such as OpenLoad, Google Drive, among others. In the event of copyright infringement, please contact the dealer. If you have any questions or complaints about the content, please contact the support team.",
+"isNative": false,
+"background": "#FFFFFF"
+}
+]
+}
+}
