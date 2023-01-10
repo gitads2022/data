@@ -20,11 +20,11 @@
         },
         {
             "name":"ADMIN_REWARDED_AD_TYPE",
-            "value":"MAX"
+            "value":"ADMOB"
         },
         {
             "name":"ADMIN_REWARDED_ADMOB_ID",
-            "value":"74e8a7fa4ef8c518"
+            "value":"ca-app-pub-3940256099942544/5224354917"
         },
         {
             "name":"ADMIN_INTERSTITIAL_ADMOB_ID",
@@ -44,7 +44,7 @@
         },
         {
             "name":"ADMIN_BANNER_ADMOB_ID",
-            "value":"59335a889699797d"
+            "value":"ca-app-pub-3940256099942544/6300978111"
         },
         {
             "name":"ADMIN_BANNER_FACEBOOK_ID",
@@ -52,7 +52,7 @@
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"MAX"
+            "value":"admob"
         },
         {
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
