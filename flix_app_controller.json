@@ -32,11 +32,11 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_FACEBOOK_ID",
-            "value":"XXXXXXXXXXXXXXXX_XXXXXXXXXXXXXXXX"
+            "value":"925779032114988_926844615341763"
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"MAX"
+            "value":"facebook"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
@@ -48,11 +48,11 @@
         },
         {
             "name":"ADMIN_BANNER_FACEBOOK_ID",
-            "value":"MAX"
+            "value":"925779032114988_926282295397995"
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"admob"
+            "value":"facebook"
         },
         {
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
