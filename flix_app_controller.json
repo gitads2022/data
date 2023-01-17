@@ -36,7 +36,7 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"facebook"
+            "value":"IS"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
@@ -52,7 +52,7 @@
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"facebook"
+            "value":"IS"
         },
         {
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
