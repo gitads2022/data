@@ -52,7 +52,7 @@
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"IS"
+            "value":"ADMOB"
         },
         {
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
