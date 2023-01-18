@@ -36,7 +36,7 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"IROUNSOURCE"
+            "value":"IS"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
@@ -52,7 +52,7 @@
         },
         {
             "name":"ADMIN_BANNER_TYPE",
-            "value":"IROUNSOURCE"
+            "value":"IS"
         },
         {
             "name":"ADMIN_NATIVE_FACEBOOK_ID",
@@ -60,7 +60,7 @@
         },
         {
             "name":"ADMIN_NATIVE_ADMOB_ID",
-            "value":"576aa3ec44b8a9ed"
+            "value":"ca-app-pub-3940256099942544/2247696110"
         },
         {
             "name":"ADMIN_NATIVE_LINES",
@@ -68,7 +68,7 @@
         },
         {
             "name":"ADMIN_NATIVE_TYPE",
-            "value":"MAX"
+            "value":"ADMOB"
         },
         {
             "name":"APP_CURRENCY",
