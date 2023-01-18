@@ -36,7 +36,7 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_TYPE",
-            "value":"IS"
+            "value":"MAX"
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
