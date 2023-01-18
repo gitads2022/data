@@ -24,7 +24,7 @@
         },
         {
             "name":"ADMIN_REWARDED_ADMOB_ID",
-            "value":"1ca-app-pub-3940256099942544/5224354917"
+            "value":"ca-app-pub-3940256099942544/5224354917"
         },
         {
             "name":"ADMIN_INTERSTITIAL_ADMOB_ID",
@@ -40,7 +40,7 @@
         },
         {
             "name":"ADMIN_INTERSTITIAL_CLICKS",
-            "value":1
+            "value":2
         },
         {
             "name":"ADMIN_BANNER_ADMOB_ID",
