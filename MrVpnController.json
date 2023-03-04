@@ -1,0 +1,41 @@
+{
+  "ConnectionType": "canada",
+  "VpnUserName"   :"L42BvTbfPgrozGgHPHhGGFno",
+  "VpnPassword"   :"wfHC1HRBvD6PHvkyQoXhsXgz",
+  "BlockedCountry":"ca,uk",
+  "VpnFiles": [
+    {
+      "vpnName": "canada",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/ppsspp/ca_nordvpn_udp.ovpn"
+    },
+    {
+      "vpnName": "US-Miami",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Miami-UDP.ovpn"
+    },
+    {
+      "vpnName": "US-SanJose",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-San Jose-UDP.ovpn"
+    },
+    {
+      "vpnName": "US-Seattle",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Seattle-UDP.ovpn"
+    },
+    {
+      "vpnName": "US-Dallas",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Dallas-UDP.ovpn"
+    },
+    {
+      "vpnName": "US-Denver",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Denver-UDP.ovpn"
+    },
+    {
+      "vpnName": "US-Las-Vegas",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Las Vegas-UDP.ovpn"
+    },
+    {
+      "vpnName": "US-Atlanta",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/VpnAmine/NCVPN-US-Atlanta-UDP.ovpn"
+    }
+   
+  ]
+}
