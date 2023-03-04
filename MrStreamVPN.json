@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "url for blocked countries",
   "REST_API_KEY_REDIRECTION": "api for blocked countries",
   
-  "BLACK_LIST" : "blocked country like this ma,usa,ca,uk...",
+  "BLACK_LIST" : "blocked country like this usa,uk...",
   
   "VPN_URL"    : "https://zonekapp.com/AndroidStudio/MrVpnController.json",
 
