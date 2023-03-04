@@ -6,7 +6,7 @@
   "PANEL_URL_REDIRECTION": "url for blocked countries",
   "REST_API_KEY_REDIRECTION": "api for blocked countries",
   
-  "BLACK_LIST" : "blocked country like this usa,uk...",
+  "BLACK_LIST" : "blocked country like this uk...",
   
   "VPN_URL"    : "https://raw.githubusercontent.com/gitads2022/data/main/MrVpnController.json",
 
