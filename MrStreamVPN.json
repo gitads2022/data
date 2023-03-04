@@ -8,7 +8,7 @@
   
   "BLACK_LIST" : "blocked country like this usa,uk...",
   
-  "VPN_URL"    : "https://zonekapp.com/AndroidStudio/MrVpnController.json",
+  "VPN_URL"    : "https://raw.githubusercontent.com/gitads2022/data/main/MrVpnController.json",
 
   "status": "ok",
   "app": {
