@@ -26,9 +26,9 @@
 },
 "ads": {
 "id": 1,
-"ad_status": "off",
-"ad_type": "none",
-"backup_ads": "none",
+"ad_status": "on",
+"ad_type": "ironsource",
+"backup_ads": "ironsource",
 "admob_publisher_id": "pub-xx",
 "admob_app_id": "ca-app-pub-xx~6454674580",
 "admob_banner_unit_id": "ca-app-pub-xx/7214395941",
