@@ -1,1 +1,71 @@
+{
+  "ADS": {
+    "Interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "Native": "ca-app-pub-3940256099942544/2247696110",
 
+    "Banner_idF": "dir id banner facebook",
+    "Interstitial_idF": "dir inter id facebook",
+    "Native_facebook" : "",
+
+    "inter_max": "963c714daa907c2d",
+    "max_banner": "461506a3f027a92e",
+    "Native_max": "0cb286ba542561a9",
+
+    "key_iron" : "dde421a9",
+
+    "UnityGameID": "",
+    "UnityBanner": "",
+    "UnityInterstitial": "",
+
+    "Image_cpaLink" : "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa": "https://www.google.com/",
+
+    "ImageUrl_banner": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa_banner": "https://www.google.com/",
+    "ImageUrl_banner1": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa_banner1": "https://www.google.com/",
+    "ImageUrl_banner2": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "LinkCpa_banner2": "https://www.google.com/",
+
+    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
+    "link_exit": "https://www.google.com/",
+
+    "privacy" : "https://policies.google.com/privacy?hl=en-US",
+    "url_exit": "https://www.google.com/",
+    "url_bottom_coins": "https://www.google.com/",
+
+    "Text_tips1": "Welcome Test Badr",
+    "Text_tips2": "Welcome Test Badr2",
+    "Text_tips3": "Welcome Test Badr3",
+    "Text_tips4": "Welcome Test Badr4",
+    "Text_tips5": "Welcome Test Badr5",
+    "Text_tips6": "Welcome Test Badr6",
+    "Text_tips7": "Welcome Test Badr7",
+    "Text_tips8": "Welcome Test Badr8",
+
+
+    "Text_title1": "Test Badr",
+    "Text_title2": "Test Badr2",
+    "Text_title3": "Test Badr3",
+    "Text_title4": "Test Badr4",
+    "Text_title5": "Test Badr5",
+    "Text_title6": "Test Badr6",
+    "Text_title7": "Test Badr7",
+    "Text_title8": "Test Badr8",
+
+
+    "Text_buttonCoins" : "Male",
+    "Text_buttonTips" : "Women",
+    "Text_buttonmoins" : "- 18",
+    "Text_buttonplus" : "+ 18",
+
+
+    "CpaAds" : "False",
+
+    "Click_inter": "0",
+
+
+    "networkAd": "iron"
+  }
+}
