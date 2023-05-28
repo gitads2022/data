@@ -26,7 +26,7 @@
 },
 "ads": {
 "id": 1,
-"ad_status": "on",
+"ad_status": "off",
 "ad_type": "ironsource",
 "backup_ads": "ironsource",
 "admob_publisher_id": "pub-xx",
