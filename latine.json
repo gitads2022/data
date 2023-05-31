@@ -27,8 +27,8 @@
 "ads": {
 "id": 1,
 "ad_status": "on",
-"ad_type": "facebook",
-"backup_ads": "facebook",
+"ad_type": "Facebook",
+"backup_ads": "Facebook",
 "admob_publisher_id": "pub-xx",
 "admob_app_id": "ca-app-pub-xx~6454674580",
 "admob_banner_unit_id": "ca-app-pub-xx/7214395941",
