@@ -36,8 +36,6 @@
     "url_bottom_coins": "https://www.google.com/",
 
     "Text_tips1": "Facebook is an online social media and social networking service owned by American technology giant Meta Platforms. Created in 2004 by Mark Zuckerberg with fellow Harvard College students and roommates Eduardo Saverin Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to only Harvard students, gradually expanding to other North American universities and, since 2006, anyone over 13 years old. As of December 2022, Facebook claimed 2.96 billion monthly active users,[6] and ranked third worldwide among the most visited websites.[7] It was the most downloaded mobile app of the 2010[8]",
-
-    
     "Text_tips2": "Each registered user on Facebook has a personal profile that shows their posts and content.[232] The format of individual user pages was revamped in September 2011 and became known as Timeline, a chronological feed of a user's stories",
     "Text_tips3": "The like button, stylized as a thumbs up icon, was first enabled on February 9, 2009,[273] and enables users to easily interact with status updates, comments, photos and videos, links shared by friends, and advertisements. Once clicked by a user, the designated content is more likely to appear in friends",
     "Text_tips4": "Facebook Messenger is an instant messaging service and software application. It began as Facebook Chat in 2008,[283] was revamped in 2010[284] and eventually became a standalone mobile app in August 2011, while remaining part of the user page on browsers",
@@ -47,7 +45,7 @@
 
 
     "Text_title1": " whats Facebook",
-    "Text_title2": " User profile/personal timeline",
+    "Text_title2": " User profile personal timeline",
     "Text_title3": " Like button",
     "Text_title4": " Instant messaging",
     "Text_title5": " Messenger Kids",
