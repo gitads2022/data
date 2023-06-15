@@ -35,14 +35,15 @@
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
-    "Text_tips1": "Welcome Test Badr",
-    "Text_tips2": "Welcome Test Badr2",
-    "Text_tips3": "Welcome Test Badr3",
-    "Text_tips4": "Welcome Test Badr4",
-    "Text_tips5": "Welcome Test Badr5",
-    "Text_tips6": "Welcome Test Badr6",
-    "Text_tips7": "Welcome Test Badr7",
-    "Text_tips8": "Welcome Test Badr8",
+    "Text_tips1": "Facebook is an online social media and social networking service owned by American technology giant Meta Platforms. Created in 2004 by Mark Zuckerberg with fellow Harvard College students and roommates Eduardo Saverin Andrew McCollum, Dustin Moskovitz, and Chris Hughes, its name derives from the face book directories often given to American university students. Membership was initially limited to only Harvard students, gradually expanding to other North American universities and, since 2006, anyone over 13 years old. As of December 2022, Facebook claimed 2.96 billion monthly active users,[6] and ranked third worldwide among the most visited websites.[7] It was the most downloaded mobile app of the 2010[8]",
+    
+    "Text_tips2": "Each registered user on Facebook has a personal profile that shows their posts and content.[232] The format of individual user pages was revamped in September 2011 and became known as Timeline, a chronological feed of a user's stories",
+    "Text_tips3": "The like button, stylized as a thumbs up icon, was first enabled on February 9, 2009,[273] and enables users to easily interact with status updates, comments, photos and videos, links shared by friends, and advertisements. Once clicked by a user, the designated content is more likely to appear in friends",
+    "Text_tips4": "Facebook Messenger is an instant messaging service and software application. It began as Facebook Chat in 2008,[283] was revamped in 2010[284] and eventually became a standalone mobile app in August 2011, while remaining part of the user page on browsers",
+    "Text_tips5": "Welcome Test Facebook",
+    "Text_tips6": "Welcome Test Facebook",
+    "Text_tips7": "Welcome Test Facebook",
+    "Text_tips8": "Welcome Test Facebook",
 
 
       "Text_title1": "4444",
@@ -50,9 +51,9 @@
     "Text_title3": " Like button",
     "Text_title4": " Instant messaging",
     "Text_title5": " Messenger Kids",
-    "Text_title6": "1",
-    "Text_title7": "1",
-    "Text_title8": "1",
+    "Text_title6": "Facebook",
+    "Text_title7": "Messenger",
+    "Text_title8": "Messenger",
 
 
     "Text_buttonCoins" : "Male",
