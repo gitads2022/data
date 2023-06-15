@@ -45,14 +45,14 @@
     "Text_tips8": "Welcome Test Badr8",
 
 
-    "Text_title1": "Test Badr",
-    "Text_title2": "Test Badr2",
-    "Text_title3": "Test Badr3",
-    "Text_title4": "Test Badr4",
-    "Text_title5": "Test Badr5",
-    "Text_title6": "Test Badr6",
-    "Text_title7": "Test Badr7",
-    "Text_title8": "Test Badr8",
+    "Text_title1": "1",
+    "Text_title2": "112",
+    "Text_title3": "13",
+    "Text_title4": "1",
+    "Text_title5": "1",
+    "Text_title6": "1",
+    "Text_title7": "1",
+    "Text_title8": "1",
 
 
     "Text_buttonCoins" : "Male",
@@ -66,6 +66,6 @@
     "Click_inter": "0",
 
 
-    "networkAd": "admob"
+    "networkAd": "iron"
   }
 }
