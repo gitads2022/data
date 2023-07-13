@@ -8,7 +8,7 @@
       
     "BannerNetwork"           : "IronSource",
     "InterstitialNetwork"     : "IronSource",
-    "NativeNetwork"           : "IronSource",
+    "NativeNetwork"           : "Admob",
     
     "IntervalClick"           : 1,
     
