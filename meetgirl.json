@@ -6,16 +6,16 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "IronSource",
-    "InterstitialNetwork"     : "IronSource",
+    "BannerNetwork"           : "Admob",
+    "InterstitialNetwork"     : "Admob",
     "NativeNetwork"           : "Admob",
     
     "IntervalClick"           : 1,
     
     "AdMob_ID"               : "pub-716632395010674",
-    "AdMob_Banner"           : "ca-app-pub-7166323950101674/2921871027",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"           : "ca-app-pub-7166323950101674/7188089524",
+    "AdMob_InterstitialAd"   : "ca-app-pub-7166323950101674/5220401731",
+    "AdMob_Native"           : "ca-app-pub-7166323950101674/2115409017",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
